@@ -1,0 +1,8 @@
+.input-bar{
+  width: 80vh;
+  padding: 14px 20px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 1px;
+  background-color: #f8f8f8;
+}
